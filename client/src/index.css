@@ -380,3 +380,6 @@ button:disabled {
   background: #ffeeee;
   color: #d66a6a;
 }
+.bg {
+  z-index: -1;
+}
